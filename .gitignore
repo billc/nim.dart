@@ -1,0 +1,14 @@
+.buildlog
+.project
+*.dart.js
+*.dart.js.deps
+*.dart.js.map
+*.dart.precompiled.js
+.DS_Store
+out
+packages
+pubspec.lock
+docs/
+dart.js
+dart_interop.js
+interop.js
